@@ -7,9 +7,30 @@ Questions:
 Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
+
+GitHub is a web based platform used for version control and collaboration in software development, allowing developers to store,track, and share their code and work together on projects.
+
+Primary functions and features:
+Version control- tracks changes made to code overtime, allowing developers to revert to previous versions if needed.
+Collaboration- enables multiple developers to work on the same codebase simultaneously,tracktheir changes, and merge them together.
+Issue tracking- allows teams to report and track bugs,feature requests,and other issues related to the project.
+Project management- provides tools for planning,tracking and managing software development projects.
+
+How it supports collaborative software development
+Forking and pull requests- developers can create their own copies of a repository,make changes, and submit pull request to have their changes merged back into the original repository.
+
 Repositories on GitHub:
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
+GitHub repository- this is a central storage location where code,documentation and other files are hosted and managed as part of a software development project.
+How to create a new repository
+1.Sign in to github via github.com
+2.Click the + sign in the top right corner of the page.
+3.Select the new repository 
+4.Enter a brief namefor the repository,a description plus select if you want it private or public.
+5.Click create repository.
+Essential elements that should be included:
+README file- a file that serves as an introductory brief overview of project; its purpose and necessary instructions and guidelines.
 Version Control with Git:
 
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
